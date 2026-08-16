@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-15-saratoga-county-hospital/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/src/site/notes/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-15-saratoga-county-hospital/","dg-note-properties":{"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-15-saratoga-county-hospital/"}}
 ---
+
 
 #videos #sam_and_colby #vol_I #gsnc 
 
@@ -8,8 +9,8 @@
 >https://youtu.be/JtJjHcvNvIQ?si=DIz8iDHrboGrENMp 
 >Title: Investigating MASSIVE Haunted Hospital (PEOPLE CAME IN!) 
 >Published: August 15th 2021 
->feat. [[ExploringWithJosh\|ExploringWithJosh]], [[Seth Borden\|Seth Borden]], [[Steve Brodt\|Steve Brodt]] and [[Dylan Stevens\|Dylan Stevens]] 
->[[Sam Golbach\|Sam Golbach]] / [[Colby Brock\|Colby Brock]]
+>feat. [[03 - Knowledge Base/01 - People/01 - Collaborations/ExploringWithJosh\|ExploringWithJosh]], [[03 - Knowledge Base/01 - People/01 - Collaborations/Seth Borden\|Seth Borden]], [[03 - Knowledge Base/01 - People/01 - Collaborations/Steve Brodt\|Steve Brodt]] and [[03 - Knowledge Base/01 - People/01 - Collaborations/Dylan Stevens\|Dylan Stevens]] 
+>[[03 - Knowledge Base/01 - People/01 - Collaborations/Sam Golbach\|Sam Golbach]] / [[03 - Knowledge Base/01 - People/01 - Collaborations/Colby Brock\|Colby Brock]]
 
 >[!Quick Summary]
 >**Entities/Spirits**:
@@ -22,7 +23,7 @@
 >- They scare a group of guys
 >———
 >**Patterns**:
->- [[„Maybe“\|„Maybe“]]
+>- [[04 - Research/01 - Patterns/„Maybe“\|„Maybe“]]
 
 ## Facts:
 - It was a hospital for tuberculosis.

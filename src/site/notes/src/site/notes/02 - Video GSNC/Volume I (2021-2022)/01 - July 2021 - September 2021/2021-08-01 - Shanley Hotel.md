@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-01-shanley-hotel/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/src/site/notes/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-01-shanley-hotel/","dg-note-properties":{"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-01-shanley-hotel/"}}
 ---
+
 
 #videos #sam_and_colby #vol_I #gsnc 
 
@@ -8,8 +9,8 @@
 >https://youtu.be/MXLtFE0MiiU?si=Kl5mK_03BVa799T1 
 >Title: Our Unforgettable Haunted Experience | Shanley Hotel 
 >Published: August 1st 2021 
->feat. [[Seth Borden\|Seth Borden]], [[ExploringWithJosh\|ExploringWithJosh]] and [[Scotty The Medium\|Scotty The Medium]]
->[[Sam Golbach\|Sam Golbach]] / [[Colby Brock\|Colby Brock]] 
+>feat. [[03 - Knowledge Base/01 - People/01 - Collaborations/Seth Borden\|Seth Borden]], [[03 - Knowledge Base/01 - People/01 - Collaborations/ExploringWithJosh\|ExploringWithJosh]] and [[03 - Knowledge Base/01 - People/01 - Collaborations/Scotty The Medium\|Scotty The Medium]]
+>[[03 - Knowledge Base/01 - People/01 - Collaborations/Sam Golbach\|Sam Golbach]] / [[03 - Knowledge Base/01 - People/01 - Collaborations/Colby Brock\|Colby Brock]] 
 
 >[!Quick Summary]
 >**Entities/Spirits**:
@@ -32,8 +33,8 @@
 >- The ball in the Murder Room moved a second time while Colby asked a question
 >———
 >**Patterns**:
->- [[„It‘s me“\|„Me“]]
->- [[„Master“\|„King“]] / [[„Master“\|„Owner“]]
+>- [[04 - Research/01 - Patterns/„It‘s me“\|„Me“]]
+>- [[04 - Research/01 - Patterns/„Master“\|„King“]] / [[04 - Research/01 - Patterns/„Master“\|„Owner“]]
 
 - The hotel has a rich mafia history
 

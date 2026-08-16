@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-07-25-conjuring-house/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/src/site/notes/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-07-25-conjuring-house/","dg-note-properties":{"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-07-25-conjuring-house/"}}
 ---
+
 
 #videos #sam_and_colby #vol_I #gsnc 
 
@@ -8,16 +9,16 @@
 >https://youtu.be/E6mwC6UwZ_c?si=s9lKOlzIK-1s1t6c 
 >Title: The Night We Talked To Demons. | REAL Conjuring House 
 >Published: July 25th 2021 
->feat. [[Stas Silver\|Stas Silver]], [[Katrina Stuart\|Katrina Stuart]], [[Amanda Raye\|Amanda Raye]] 
->[[Sam Golbach\|Sam Golbach]] / [[Colby Brock\|Colby Brock]]
+>feat. [[03 - Knowledge Base/01 - People/01 - Collaborations/Stas Silver\|Stas Silver]], [[03 - Knowledge Base/01 - People/01 - Collaborations/Katrina Stuart\|Katrina Stuart]], [[03 - Knowledge Base/01 - People/01 - Collaborations/Amanda Raye\|Amanda Raye]] 
+>[[03 - Knowledge Base/01 - People/01 - Collaborations/Sam Golbach\|Sam Golbach]] / [[03 - Knowledge Base/01 - People/01 - Collaborations/Colby Brock\|Colby Brock]]
 
 >[!Quick Summary]
 >**Entities/Spirits**: 
 >- Kid mimic (?)
 >- Soldier Spirits  
 >- Children Spirits 
->- [[Beelzebub\|Beelzebub]]  
->- [[Bathsheeba Sherman\|Bathsheeba Sherman]]
+>- [[03 - Knowledge Base/02 - Entities/02 - Individuals/Beelzebub\|Beelzebub]]  
+>- [[03 - Knowledge Base/01 - People/02 - Historical People/Bathsheeba Sherman\|Bathsheeba Sherman]]
 >——— 
 >**Important Events**:
 >- During the tour Amanda sees children peeking in the hallway 
@@ -29,24 +30,24 @@
 >- After the investigation in the basement the door was locked as Sam and Colby went back upstairs 
 >———
 >**Patterns**:
->- [[„Gateway“\|„Gate“]] / [[„Gateway“\|„Gateway“]] / [[„Gateway“\|“Portal“]] / [[„Gateway“\|„Modern Gate“]] / [[„Gateway“\|„Door“]]
->- [[„Freedom“\|„Freedom“]] / [[„Freedom“\|„Liberty“]] / [[„Freedom“\|„Free“]] / [[„Freedom“\|„Immortal“]]
->- [[„Prisoner“\|„Prisoner“]] / [[„Prisoner“\|„Slaves“]]
->- [[„Six“\|„Six“]] / [[„Seven“\|„Seven“]]
->- [[„Focus“\|„Focus“]] / [[„Focus“\|„Concentrate“]]
->- [[„Limit“\|„Limit“]]
->- [[„It‘s me“\|„It‘s me“]]
->- [[„Mommy“\|„Mommy“]]
->- [[„Monument“\|„Monument“]]
->- [[„It‘s time“\|„It‘s time“]]
->- [[„Unlock“\|„Unlock“]]
->- [[„Close the door“\|„Close the door“]] 
->- [[„It‘s you“\|„It‘s you“]]
->- [[„Move“\|„Move“]]
->- [[„To the left“\|„To the left“]]
->- [[„Casket“\|„Casket“]]
->- [[„Master“\|„God“]]
->- [[„Evil“\|„Evil“]]
+>- [[04 - Research/01 - Patterns/„Gateway“\|„Gate“]] / [[04 - Research/01 - Patterns/„Gateway“\|„Gateway“]] / [[04 - Research/01 - Patterns/„Gateway“\|“Portal“]] / [[04 - Research/01 - Patterns/„Gateway“\|„Modern Gate“]] / [[04 - Research/01 - Patterns/„Gateway“\|„Door“]]
+>- [[04 - Research/01 - Patterns/„Freedom“\|„Freedom“]] / [[04 - Research/01 - Patterns/„Freedom“\|„Liberty“]] / [[04 - Research/01 - Patterns/„Freedom“\|„Free“]] / [[04 - Research/01 - Patterns/„Freedom“\|„Immortal“]]
+>- [[04 - Research/01 - Patterns/„Prisoner“\|„Prisoner“]] / [[04 - Research/01 - Patterns/„Prisoner“\|„Slaves“]]
+>- [[04 - Research/01 - Patterns/„Six“\|„Six“]] / [[04 - Research/01 - Patterns/„Seven“\|„Seven“]]
+>- [[04 - Research/01 - Patterns/„Focus“\|„Focus“]] / [[04 - Research/01 - Patterns/„Focus“\|„Concentrate“]]
+>- [[04 - Research/01 - Patterns/„Limit“\|„Limit“]]
+>- [[04 - Research/01 - Patterns/„It‘s me“\|„It‘s me“]]
+>- [[04 - Research/01 - Patterns/„Mommy“\|„Mommy“]]
+>- [[04 - Research/01 - Patterns/„Monument“\|„Monument“]]
+>- [[04 - Research/01 - Patterns/„It‘s time“\|„It‘s time“]]
+>- [[04 - Research/01 - Patterns/„Unlock“\|„Unlock“]]
+>- [[04 - Research/01 - Patterns/„Close the door“\|„Close the door“]] 
+>- [[04 - Research/01 - Patterns/„It‘s you“\|„It‘s you“]]
+>- [[04 - Research/01 - Patterns/„Move“\|„Move“]]
+>- [[04 - Research/01 - Patterns/„To the left“\|„To the left“]]
+>- [[04 - Research/01 - Patterns/„Casket“\|„Casket“]]
+>- [[04 - Research/01 - Patterns/„Master“\|„God“]]
+>- [[04 - Research/01 - Patterns/„Evil“\|„Evil“]]
 
 ### History:
 - The story of the first Conjuring Movie originates from that house. Meaning that almost everything that happened in the movie happened in real life too. 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-08-wilson-castle/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/src/site/notes/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-08-wilson-castle/","dg-note-properties":{"permalink":"/02-video-gsnc/volume-i-2021-2022/01-july-2021-september-2021/2021-08-08-wilson-castle/"}}
 ---
+
 
 #videos #sam_and_colby #vol_I #gsnc 
 
@@ -8,8 +9,8 @@
 >https://youtu.be/nOsSHug9uBw?si=D0BAjqIGGnaEyXgs 
 >Title: OVERNIGHT in USA’s Most Haunted Castle (scary) 
 >Published: August 8th 2021 
->feat. [[ExploringWithJosh\|ExploringWithJosh]], [[Seth Borden\|Seth Borden]], [[Steve Brodt\|Steve Brodt]] and [[Dylan Stevens\|Dylan Stevens]] 
->[[Sam Golbach\|Sam Golbach]] / [[Colby Brock\|Colby Brock]]
+>feat. [[03 - Knowledge Base/01 - People/01 - Collaborations/ExploringWithJosh\|ExploringWithJosh]], [[03 - Knowledge Base/01 - People/01 - Collaborations/Seth Borden\|Seth Borden]], [[03 - Knowledge Base/01 - People/01 - Collaborations/Steve Brodt\|Steve Brodt]] and [[03 - Knowledge Base/01 - People/01 - Collaborations/Dylan Stevens\|Dylan Stevens]] 
+>[[03 - Knowledge Base/01 - People/01 - Collaborations/Sam Golbach\|Sam Golbach]] / [[03 - Knowledge Base/01 - People/01 - Collaborations/Colby Brock\|Colby Brock]]
 
 >[!Quick Summary]
 >**Entities/Spirits**:
@@ -26,14 +27,14 @@
 >———
 >**Patterns**:
 >- Lots of symbols are hidden all around the house like the Eye of Horus 
->- [[„Seven“\|„Seven“]]
->- [[„It‘s me“\|„Me“]]
->- [[„Move“\|„Move on“]]
->- [[„It‘s time“\|„It‘s time“]]
->- [[„Focus“\|„Relax“]]
->- [[„Music“\|„Music“]]
->- [[„Smile“\|„Smile“]] 
->- [[„Maybe“\|„Maybe“]]
+>- [[04 - Research/01 - Patterns/„Seven“\|„Seven“]]
+>- [[04 - Research/01 - Patterns/„It‘s me“\|„Me“]]
+>- [[04 - Research/01 - Patterns/„Move“\|„Move on“]]
+>- [[04 - Research/01 - Patterns/„It‘s time“\|„It‘s time“]]
+>- [[04 - Research/01 - Patterns/„Focus“\|„Relax“]]
+>- [[04 - Research/01 - Patterns/„Music“\|„Music“]]
+>- [[04 - Research/01 - Patterns/„Smile“\|„Smile“]] 
+>- [[04 - Research/01 - Patterns/„Maybe“\|„Maybe“]]
 
 - The Johnsons built the house. 
 - Sara Johnson died shortly after the house was finished and John Johnson immediately sold it.  
