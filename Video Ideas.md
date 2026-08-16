@@ -1,0 +1,5 @@
+- [ ] — I built a public archive for Sam and Colby, because apparently having hobbies is overrated.
+- [ ] — I made this for me and my friends and now other people want it too?
+- [ ] — U GUYS ARE NOW GIVING ME HOMEWORK AND I LOVE IT
+- [ ] — Drop ur weirdest SnC observations. I might add it to the archive.
+- [ ] — Have u ever had a weird experience connected to Sam and Colby? I made a place for u to submit it.
