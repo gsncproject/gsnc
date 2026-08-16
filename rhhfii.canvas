@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"58aed47f687afa2e","x":-14,"y":101,"width":250,"height":60,"type":"text","text":"[[Sam Golbach]]"},
-		{"id":"d531fb75d0e6adfd","x":275,"y":-131,"width":250,"height":60,"type":"text","text":"[[Colby Brock]]"}
-	],
-	"edges":[
-		{"id":"f642994e3d047cca","fromNode":"58aed47f687afa2e","fromSide":"top","toNode":"d531fb75d0e6adfd","toSide":"bottom","fromEnd":"arrow","color":"3","label":"friends"}
-	]
-}
