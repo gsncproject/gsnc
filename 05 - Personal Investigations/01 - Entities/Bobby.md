@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #entity #gsnc
 
 # Bobby
@@ -8,7 +11,9 @@
 **Locations**:
 
 ## Description:
+- 
 ## Associated Events:
+- Malina suddenly found 
 ## Statements/Claims:
 ## Behavior/Characteristics:
 ## Connections:
