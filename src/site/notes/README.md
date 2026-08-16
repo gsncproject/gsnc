@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":"","dg-note-properties":{}}
 ---
 
 # GSNC-Guide-for-Sam-and-Colby
@@ -15,3 +15,5 @@ Other than that; I am always happy when people read it and find things that I mi
 
 That being said, have fun reading and looking through it! 
 For questions you can dm on TikTok @gsnc.project !!
+
+For those interested to submit something to the GSNC here is a form: [GSNC Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ2t79oqfyWUMtAxR1WbNDLbnW0BqZVEwPOfjXz1GaQlsZtw/viewform) 
