@@ -11,9 +11,9 @@
 - [x] — Past me apparently knew something that current me doesn‘t-  [completion:: 2026-08-22]
 - [ ] — This started as a notebook. I genuinely don‘t know what happened after that.
 - [ ] — The GSNC is getting bigger and I am both proud and concerned.
-- [ ] — I wasn‘t looking for the pattern, the pattern was looking for me.
+- [x] — I wasn‘t looking for the pattern, the pattern was looking for me.  [completion:: 2026-08-22]
 - [ ] — I don‘t have a conclusion yet, I just have questions. 
 - [ ] — This is either really interesting or I need to touch grass.
-- [ ] — Tell me ur most niche Sam and Colby knowledge.
+- [x] — Tell me ur most niche Sam and Colby knowledge.  [completion:: 2026-08-22]
 - [ ] — I wish past me had written down WHY I THOUGHT THIS WAS IMPORTANT
 - [ ] — 
