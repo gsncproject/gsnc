@@ -9,4 +9,6 @@
 - [ ] — Once u notice this, u can‘t UNNOTICE IT.
 - [ ] — I don‘t wanna gatekeep so here is all I know about …:
 - [x] — Past me apparently knew something that current me doesn‘t-  [completion:: 2026-08-22]
-- [ ] — 
+- [ ] — This started as a notebook. I genuinely don‘t know what happened after that.
+- [ ] — The GSNC is getting bigger and I am both proud and concerned.
+- [ ] — I wasn‘t looking for the pattern, the pattern was looking for me.
