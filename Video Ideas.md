@@ -7,4 +7,6 @@
 - [ ] — Things I‘ve learned from spending an unreasonable amount of time watching Sam and Colby.
 - [ ] — The Conjuring House really needs TO STOP being CONNECTED to everything.
 - [ ] — Once u notice this, u can‘t UNNOTICE IT.
+- [ ] — I don‘t wanna gatekeep so here is all I know about …:
+- [ ] — Past me apparently knew something that current me doesn‘t-
 - [ ] — 
