@@ -9,7 +9,6 @@
 ## Related Entites:
 ## Related Locations:
 - [[The Indiana State Sanatorium]]
-## Variations:
 ## Notes:
 ## Status:
 - [ ] - Possible Pattern
