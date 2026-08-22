@@ -1,18 +1,13 @@
----
-dg-publish: true
----
 #pattern #gsnc
 
-# Thirty
-**Category**: Number 
-**First Noticed**: [[2022-07-03 - Cosmo Hotel]]
+# Oremace
+**Category**: Religious 
+**First Noticed**:
 
 ## Occurrences:
-- [[2022-07-03 - Cosmo Hotel]]
 ## Related Entites:
-- [[Yisdora Bandini]]
 ## Related Locations:
-- [[The Cosmopolitican Hotel]]
+## Variations:
 ## Notes:
 ## Status:
 - [ ] - Possible Pattern

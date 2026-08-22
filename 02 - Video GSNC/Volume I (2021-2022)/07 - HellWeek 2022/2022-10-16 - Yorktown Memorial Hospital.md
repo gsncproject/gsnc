@@ -12,11 +12,11 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- Stacie (Yorktown) 
+>- [[Stacie (Yorktown)]] 
 >- Nuns (who hate Tattoos)
->- Debbie (Nurse)
+>- [[Debbie (Nurse, Yorktown)]]
 >- (Mary)
->- Dr. Novarnski 
+>- [[Dr. Novarnski]] 
 >- [[Priest (Yorktown)]]
 >———
 >**Important Events**:
@@ -24,7 +24,7 @@ dg-publish: true
 >- They drew a gun-adjecent and knife-adjecent drawing with the Drawing Planchette 
 >———
 >**Patterns**:
->- „Sacer Rez“ / „Oremace“
+>- [[„Sacer Rez“]] / [[„Oremace“]]
 >- [[„Casket“]]
 >- [[„It‘s me“|„It is me“]] / [[„It‘s me“|„Me“]]
 >- [[„Five“]]
