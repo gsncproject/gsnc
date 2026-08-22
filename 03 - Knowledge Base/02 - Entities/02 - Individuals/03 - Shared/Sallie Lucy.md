@@ -1,5 +1,8 @@
 ---
 dg-publish: true
+aliases:
+  - Sallie
+  - Lucy
 ---
 #entity #gsnc
 

@@ -1,0 +1,1 @@
+(*This note was originally written in German and has been translated into English for the GSNC. The English version may differ slightly in wording from the original German text.*)
