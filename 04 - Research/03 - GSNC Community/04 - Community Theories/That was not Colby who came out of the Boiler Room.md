@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #community #theory #gsnc
 
 # Community Theory — That was not Colby who came out of the Boiler Room
