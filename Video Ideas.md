@@ -12,3 +12,7 @@
 - [ ] — This started as a notebook. I genuinely don‘t know what happened after that.
 - [ ] — The GSNC is getting bigger and I am both proud and concerned.
 - [ ] — I wasn‘t looking for the pattern, the pattern was looking for me.
+- [ ] — I don‘t have a conclusion yet, I just have questions. 
+- [ ] — This is either really interesting or I need to touch grass.
+- [ ] — Tell me ur most niche Sam and Colby knowledge.
+- [ ] — 
