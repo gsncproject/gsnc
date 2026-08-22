@@ -24,7 +24,8 @@ dg-publish: true
 >- Seth kept seeing shadow figures 
 >———
 >**Patterns**:
->- Lots of symbols are hidden all around the house like the Eye of Horus 
+>- Lots of symbols are hidden all around the house like the [[Eye of Horus]] 
+>- [[„Eye“]]
 >- [[„Seven“]]
 >- [[„It‘s me“|„Me“]]
 >- [[„Move“|„Move on“]]

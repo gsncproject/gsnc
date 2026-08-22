@@ -12,9 +12,9 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- Hat Man
->- Shadow Figures
->- Steven (Shadow Figure)
+>- [[The Hat Man]]
+>- [[Shadow Figures]]
+>- [[Steven (Shadow Figure)]]
 >———
 >**Important Events**:
 >- During the Estes Method Colby is outside with the Thermo and notices that one window has a complete different temperature.
@@ -23,8 +23,8 @@ dg-publish: true
 >**Patterns**:
 >- [[„Evil“]]
 >- [[„Gateway“|„Portal“]] / [[„Gateway“]]
->- „Five minutes remain“ / „In the fifth“
->- „Holy Spirit“
+>- [[„Five“|„Five minutes remain“]] / [[„Five“|„In the fifth“]]
+>- [[„Holy Spirit“]] 
 ## Facts:
 - It was a hospital treating tuberculosis, psych ward, and nursing home.
 - "Needless to say the Adams Hall is the most active building in the entire complex" - Colby Brock
