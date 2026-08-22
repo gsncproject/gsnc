@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #group #gsnc 
 
 (*Generated with Google Gemini from a user-provided template; not idependently verified by the GSNC*)

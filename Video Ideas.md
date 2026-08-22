@@ -4,4 +4,5 @@
 - [ ] — Drop ur weirdest SnC observations. I might add it to the archive.
 - [x] — Have u ever had a weird experience connected to Sam and Colby? I made a place for u to submit it.  [completion:: 2026-08-20]
 - [ ] — If Sam and Colby ever find this account, I am simply going to evaporate.
-- [ ] 
+- [ ] — Things I‘ve learned from spending an unreasonable amount of time watching Sam and Colby 
+- [ ] —

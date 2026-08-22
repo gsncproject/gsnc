@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #person #gsnc 
 
 # Amanda Raye 

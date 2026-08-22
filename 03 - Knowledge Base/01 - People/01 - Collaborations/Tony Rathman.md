@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #person #gsnc 
 
 # Tony Rathman

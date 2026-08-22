@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #empath #sam_and_colby #vol_I #gsnc 
 
 >[!Information]
