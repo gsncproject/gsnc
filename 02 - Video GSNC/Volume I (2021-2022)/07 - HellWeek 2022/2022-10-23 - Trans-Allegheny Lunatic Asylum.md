@@ -12,19 +12,19 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- Shadow Figure 
->- The Creeper 
->- The Hat Man 
->- Doppelgänger 
->- Lily (disguise)
->- Charlie (Bathroom guy)
->- John (Bathroom guy)
->- Dean (fourteen years old)
->- Big Jim (supposedly murderer)
->- Frank (Fun guy)
->- Larry (Fun guy)
->- James Woods
->- Mimic
+>- [[Shadow Figures]] 
+>- [[The Creeper]] 
+>- [[The Hat Man]] 
+>- [[Doppelgänger]] 
+>- [[Lily (disguise)]]
+>- [[Charlie (Bathroom guy)]]
+>- [[John (Bathroom guy)]]
+>- [[Dean (fourteen years old)]]
+>- [[Big Jim (supposedly murderer)]]
+>- [[Frank (Fun guy)]]
+>- [[Larry (Fun guy)]]
+>- [[James Woods]]
+>- [[The Mimic]]
 >———
 >**Important Events**:
 >- They catch a male disembodied voice saying „Lily“
