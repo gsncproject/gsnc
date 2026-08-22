@@ -15,7 +15,7 @@ dg-publish: true
 ## Description:
 - Little girl with a white dress, blonde hair, blue eyes
 ## Associated Events:
-- 
+- [[Eight Ball falling down the stairs]]
 ## Statements/Claims:
 ## Behavior/Characteristics:
 ## Connections:

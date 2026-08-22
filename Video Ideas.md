@@ -15,4 +15,5 @@
 - [ ] — I don‘t have a conclusion yet, I just have questions. 
 - [ ] — This is either really interesting or I need to touch grass.
 - [ ] — Tell me ur most niche Sam and Colby knowledge.
+- [ ] — I wish past me had written down WHY I THOUGHT THIS WAS IMPORTANT
 - [ ] — 
