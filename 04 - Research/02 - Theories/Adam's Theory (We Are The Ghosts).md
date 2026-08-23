@@ -47,7 +47,6 @@ In this interpretation, a haunting would not necessarily be an encounter with th
 - Paranormal experiences that appear to repeat or overlap
 - Possible connections between a person and an event/location occurring outside the expected timeline
 - Reports that could potentially be interpreted as interactions between different versions of the same consciousness
-
 ## Status:
 
 - [ ] - Open Question
