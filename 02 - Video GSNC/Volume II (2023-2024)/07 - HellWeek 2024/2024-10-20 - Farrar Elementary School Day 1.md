@@ -12,25 +12,25 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- Shadow Figures 
+>- [[Shadow Figures]] 
 >- Poltergeists
 >- Tricksters 
->- A Janitor 
->- a Librarian
->- a Principal
->- Mimic
+>- [[a Janitor (Farrar)]] 
+>- [[a Librarian (Farrar)]]
+>- [[a Principal (Farrar)]]
+>- [[The Mimic]]
 >———
 >**Important Events**:
->- The last time they were there they got „I never left“, hinting bit too hard at Sallie.
+>- The last time they were there they got „I never left“, hinting bit too hard at [[Sallie Lucy|Sallie]].
 >- The spirits don‘t like Sam and Colby being the new owners
 >- Colby hears something mimicking Sam‘s voice 
 >———
 >**Patterns**:
 >- [[„Monument“]] / [[„Monument“|„Tomb“]] / [[„Monument“|„Tombstone“]] / [[„Monument“|„Marker“]]
->- „Ninety years“ / „Twenty-Seven years“
->- „Burn“
+>- [[„Ninety“|„Ninety years“]] / [[„Twenty-Seven“|„Twenty-Seven years“]]
+>- [[„Burn“]]
 >- [[„It‘s time“|„Forever“]]
->- „Below“
+>- [[„Below“]]
 >- [[„Move“|„Movement“]]
 >- [[„Falling down“|„Fell“]]
 
