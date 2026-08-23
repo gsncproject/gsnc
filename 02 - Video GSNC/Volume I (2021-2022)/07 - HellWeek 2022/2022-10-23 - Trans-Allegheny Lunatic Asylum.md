@@ -34,6 +34,7 @@ dg-publish: true
 >**Patterns**:
 >- [[„It‘s me“]]
 >- [[„Maybe“]]
+>- [[Thirteen]]
 
 - For 130 the Trans-Allegheny Lunatic Asylum treated the mentally ill 
 - They also performed lobotomies
