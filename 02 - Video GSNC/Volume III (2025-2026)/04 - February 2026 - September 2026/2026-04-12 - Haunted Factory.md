@@ -12,8 +12,8 @@ dg-publish: true
 
 >[!Quick Summary]
 >**Entites/Spirits**:
->- Irene McColl 
->- Arthur (man found in Boiler Room)
+>- [[Irene McColl]] 
+>- [[Arthur (Wangi Wangi)]] (man found in Boiler Room)
 >———
 >**Important Events**:
 >- Lots of disembodied voices 
@@ -22,7 +22,7 @@ dg-publish: true
 >**Patterns**:
 >- [[„It‘s me“|„Me“]]
 >- Drowing sounds 
->- Screams 
+>- [[Screams]] 
 >- [[„Evil“]]
 
 They‘re in a goddamn thunderstorm
