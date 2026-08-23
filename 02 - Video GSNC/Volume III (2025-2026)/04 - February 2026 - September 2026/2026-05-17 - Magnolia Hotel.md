@@ -36,12 +36,12 @@ dg-publish: true
 >- The camera light turns off, and after Sam asks it to do it again it turns off again 
 >———
 >**Patterns**:
->- [[Twenty-Seven]] / [[Thirteen]] / „Third“ / [[„Two“]]
->- „Birds“
+>- [[Twenty-Seven]] / [[Thirteen]] / [[„Third“]] / [[„Two“]]
+>- [[„Birds“]]
 >- [[„Monument“]]
->- „Devil“
->- „Befriend“
->- „Sallie“
+>- [[„Devil“]]
+>- [[„Friend“|„Befriend“]]
+>- [[„Sallie“]]
 >- [[„Freedom“|„Free“]]
 >- [[„It‘s me“|„Me“]]
 >- [[„Prisoner“|„Trapped“]]
