@@ -10,10 +10,15 @@ aliases:
 **GSNC Significance**: ???
 
 ## Occurrences:
-- 
+- [[2021-10-24 - Pine Barrens]]
+- [[2022-10-23 - Trans-Allegheny Lunatic Asylum]]
+- [[2026-05-17 - Magnolia Hotel]]
 ## Numerological Associations:
 **Common numerological interpretation**:
+- **Karmic Debt 13/4**: Represents a spiritual evolutionary path that demands discipline, accountability, and the breaking down of old structures to rebuild on a solid foundation.
+- **Angel Number 13**: Viewed as a reminder from spiritual guides that positive transitions, upheaval, and rebirth are necessary steps toward your higher alignment.
 **Associated Themes**:
+- 
 **Reduction**:
 **Associated Number**:
 ## Connections:
