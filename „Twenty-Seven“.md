@@ -13,7 +13,7 @@ dg-publish: true
 ## Related Locations:
 - [[The Farrar Elementary School]]
 ## Notes:
-- The fact that [[Sam and Colby]] where 
+- The fact that [[Sam and Colby]] where 27 Years old at the point when that video came out is crazy [2026-08-23]
 ## Status:
 - [ ] - Possible Pattern
 - [ ] - Repeated Pattern 
