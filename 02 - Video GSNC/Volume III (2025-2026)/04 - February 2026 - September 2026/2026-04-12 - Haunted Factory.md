@@ -23,7 +23,6 @@ dg-publish: true
 >- [[„It‘s me“|„Me“]]
 >- Drowing sounds 
 >- Screams 
->- „Upstairs“
 >- [[„Evil“]]
 
 They‘re in a goddamn thunderstorm
