@@ -18,11 +18,11 @@ dg-publish: true
 >- Sam takes a Thermo Picture of some „kind of“ blob in a window (the window of the principals office)
 >———
 >**Patterns**:
->- „Eight“ / [[„Three“]]
->- „The basement“
+>- [[„Eight“]] / [[„Three“]]
+>- [[„Basement“|„The basement“]]
 >- [[„It‘s me“|„Me“]]
->- „Remember“
->- „Eyes“
+>- [[„Remember“]]
+>- [[„Eye“|„Eyes“]]
 
 ## The Challenges:
 - Colby has to be "hog tied" in the Boiler Room, unable to escape even if he wanted to. 
