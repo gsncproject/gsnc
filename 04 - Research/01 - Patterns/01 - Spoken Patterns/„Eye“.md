@@ -1,14 +1,21 @@
+---
+dg-publish: true
+---
 #pattern #gsnc
 
-# Three-Hundred
-**Category**: Numbers
-**First Noticed**: [[2022-12-21 - St. Augustine Lighthouse]]
+# Eye 
+**Category**: Symbolism
+**First Noticed**: [[2021-08-08 - Wilson Castle]]
 
 ## Occurrences:
+- [[2021-08-08 - Wilson Castle]]
 - [[2022-12-21 - St. Augustine Lighthouse]]
 ## Related Entites:
 ## Related Locations:
+- [[The Wilson Castle]]
 - [[The St. Augustine Lighthouse]]
+## Variations:
+- [[Eye of Horus]]
 ## Notes:
 ## Status:
 - [ ] - Possible Pattern

@@ -1,14 +1,17 @@
+---
+dg-publish: true
+---
 #pattern #gsnc
 
-# God has ordained
-**Category**: Religious 
+# Eighty
+**Category**: Numbers
 **First Noticed**: [[2022-12-21 - St. Augustine Lighthouse]]
 
 ## Occurrences:
 - [[2022-12-21 - St. Augustine Lighthouse]]
 ## Related Entites:
 ## Related Locations:
-- [[2022-12-21 - St. Augustine Lighthouse]]
+[[The St. Augustine Lighthouse]]
 ## Notes:
 ## Status:
 - [ ] - Possible Pattern

@@ -32,6 +32,9 @@ aliases:
 - [[Twenty-Two|22]] (The Master Builder)
     - **The Connection**: 22 reduces to 4 ($2 + 2$) and represents the higher octave of 13's underlying foundation.
 - [[Thirty-One|31]] (The Mirror)
-    - **The Connection**: \(3 + 1 = 4\), acting as a mirrored focal point of the exact same energy elements arranged in a more outwardly expressive ord
+    - **The Connection**: ($3 + 1 = 4$), acting as a mirrored focal point of the exact same energy elements arranged in a more outwardly expressive ord
 ## Connections:
+- [[Four]]
+- [[Twenty-Two]]
+- [[Thirty-One]]
 ## Notes:

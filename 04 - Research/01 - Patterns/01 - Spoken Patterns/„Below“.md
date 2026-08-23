@@ -1,18 +1,21 @@
+---
+dg-publish: true
+---
 #pattern #gsnc
 
-# Sacer Rez
-**Category**: Religious
-**First Noticed**: [[2022-10-16 - Yorktown Memorial Hospital]]
- 
+# „Below“
+**Category**: Beneath
+**First Noticed**: [[2024-10-20 - Farrar Elementary School Day 1]]
+
 ## Occurrences:
-- [[Fairfield Infirmary]]
 - [[2022-10-16 - Yorktown Memorial Hospital]]
+- [[2024-10-20 - Farrar Elementary School Day 1]]
 ## Related Entites:
 - [[Priest (Yorktown)]]
 ## Related Locations:
 - [[The Yorktown Memorial Hospital]]
+- [[The Farrar Elementary School]]
 ## Notes:
-- [[Sacer Rez]] 
 ## Status:
 - [ ] - Possible Pattern
 - [ ] - Repeated Pattern 

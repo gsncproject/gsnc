@@ -14,6 +14,7 @@ dg-publish: true
 ## Related Locations:
 - [[The Black Swan Inn]]
 ## Notes:
+- [[One]]
 ## Status:
 - [ ] - Possible Pattern
 - [ ] - Repeated Pattern 

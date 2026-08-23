@@ -18,6 +18,7 @@ dg-publish: true
 - [[The Goatman‘s Bridge]]
 - [[The Magnolia Hotel]]
 ## Notes:
+- [[Two]]
 ## Status:
 - [ ] - Possible Pattern
 - [ ] - Repeated Pattern 

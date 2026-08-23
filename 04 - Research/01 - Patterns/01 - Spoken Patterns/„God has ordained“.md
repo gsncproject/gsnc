@@ -1,14 +1,17 @@
+---
+dg-publish: true
+---
 #pattern #gsnc
 
-# Holy Spirits 
+# God has ordained
 **Category**: Religious 
-**First Noticed**: [[2024-06-16 - Indiana State Sanatorium]]
+**First Noticed**: [[2022-12-21 - St. Augustine Lighthouse]]
 
 ## Occurrences:
-- [[2024-06-16 - Indiana State Sanatorium]]
+- [[2022-12-21 - St. Augustine Lighthouse]]
 ## Related Entites:
 ## Related Locations:
-- [[The Indiana State Sanatorium]]
+- [[2022-12-21 - St. Augustine Lighthouse]]
 ## Notes:
 ## Status:
 - [ ] - Possible Pattern
