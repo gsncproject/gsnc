@@ -14,6 +14,6 @@ The GSNC is for those who know that Sam and Colby's videos are intertwined but a
 Other than that; I am always happy when people read it and find things that I might've missed during the first twenty go-throughs. I also do love hearing other people's thoughts and theories on Sam and Colby's videos and whatsoever.
 
 That being said, have fun reading and looking through it! 
-For questions you can dm on TikTok @gsnc.project !!
+For questions you can dm on TikTok @gsnc.project and/or @editinqsam_!!
 
 For those interested to submit something to the GSNC here is a form: [GSNC Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ2t79oqfyWUMtAxR1WbNDLbnW0BqZVEwPOfjXz1GaQlsZtw/viewform) 
