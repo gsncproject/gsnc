@@ -20,7 +20,7 @@ dg-publish: true
 >- [[Anna (Lady of the evening)]]
 >- [[Rosie (three year old)]]
 >- [[Adam (the killer)]]
->- [[Beatrice (hung herself)]]
+>- [[Beatrice Shanley]]
 >———
 >**Important Events**:
 >- The spirits don‘t like people digging in the ‚secret‘ basement 

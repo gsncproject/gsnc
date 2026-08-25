@@ -32,7 +32,7 @@ Maddie is rumored to be the spirit of a 1920s "lady of the evening" or prostitut
 * **Poltergeist Signs**: Manipulating specialized ghost-hunting equipment (such as flashlights and spirit boxes), manifesting sudden hot or cold spots, and shifting small items left as offerings on her bed.
 
 ## Connections:
-* **James and Beatrice Shanley**: The historic 1900s owners of the hotel who managed the building before the bordello era.
+* **James Shanley and Beatrice Shanley**: The historic 1900s owners of the hotel who managed the building before the bordello era.
 * **Anna and Rosie**: Fellow female entities allegedly haunting adjacent rooms in the former bordello wing.
 * **Colby Brock**: The YouTube investigator who became the subject of Maddie's most famous alleged spirit-box communications.
 

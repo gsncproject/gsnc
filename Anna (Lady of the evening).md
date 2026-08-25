@@ -33,7 +33,7 @@ Anna is believed to be the spirit of a 1920s woman who worked alongside Maddie i
 
 ## Connections:
 * **Maddie:** Her spectral neighbor and historical coworker in the hidden 1920s bordello wing.
-* **Beatrice and James Shanley:** The turn-of-the-century proprietors who ran the legitimate fronts of the hotel.
+* **Beatrice Shanley and James Shanley:** The turn-of-the-century proprietors who ran the legitimate fronts of the hotel.
 * **Rosie:** The spirit of the 3-year-old child who passed away on the property and operates nearby.
 
 ## Patterns:
