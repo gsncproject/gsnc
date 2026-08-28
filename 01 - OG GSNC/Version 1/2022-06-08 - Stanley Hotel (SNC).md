@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #gsnc #v1 
 
 It said [[Sam Golbach|Sam]] is in danger and they were talking with [[Sallie Lucy|Lucy]].
