@@ -17,6 +17,7 @@ aliases:
 - Billy is an [[Elemental]] (fire).
 - Billy is 17 years old.
 ## Associated Events:
+- 
 ## Statements/Claims:
 ## Behavior/Characteristics:
 ## Connections:
