@@ -21,7 +21,7 @@ dg-publish: true
 - Manipulative 
 ## Connections:
 - [[Minions 2.0]]
-- [[Billy (elemental)]]
+- [[Billy (P.I)]]
 - [[Betty]] 
 ## Patterns:
 - „I‘m behind you“ / „Behind you“

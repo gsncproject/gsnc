@@ -7,4 +7,4 @@ dg-publish: true
 2. [[Emily (P.I)|Emily]] 
 3. [[Bobby (P.I)|Bobby]]
 4. [[Bill (P.I)|Bill]]
-5. [[Billy (elemental)]]
+5. [[Billy (P.I)]]

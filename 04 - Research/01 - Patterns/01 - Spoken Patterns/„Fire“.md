@@ -17,7 +17,7 @@ dg-publish: true
 - [[2022-12-21 - St. Augustine Lighthouse]]
 ## Related Entites:
 - [[Sallie Lucy|Sallie]]
-- [[Billy (elemental)]] 
+- [[Billy (P.I)]] 
 - [[Elemental]]
 ## Related Locations:
 - [[The Sallie House]]
