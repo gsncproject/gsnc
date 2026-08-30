@@ -5,4 +5,5 @@
 - Arthur
 - Whoever we talk to „sits next to God“
 - Vero might have Walter as attachment 
-	- 
+- Peter 
+- 
