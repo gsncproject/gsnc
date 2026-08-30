@@ -21,6 +21,7 @@ aliases:
 ## Behavior/Characteristics:
 ## Connections:
 - Billy knows about [[Sam and Colby]]
+- Billy is the attachment of [[Joline]] and [[Malina]]
 ## Patterns:
 - [[„I‘m following you“]] — (Catch Phrase)
 ## Uncertainty:

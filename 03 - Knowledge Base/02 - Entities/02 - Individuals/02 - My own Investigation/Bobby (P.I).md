@@ -16,6 +16,7 @@ aliases:
 - A girl that looks like a combination of Malina, Neele, Veronique and I.
 ## Associated Events:
 - Malina suddenly found weird pictures taken on her phone at 3am with SnapChat AI that could have never been taken with that said filter.
+- [[Malina‘s Astral Travelling]] 
 ## Statements/Claims:
 - Lives in the storage room by Malina‘s bedroom.
 ## Behavior/Characteristics:
