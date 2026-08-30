@@ -1,14 +1,16 @@
 ---
 dg-publish: true
+aliases:
+  - Bobby
 ---
 #entity #gsnc
 
 # Bobby
 **Type**: Trickster
-**Aliases**: 
+**Aliases**: /
 
-**First mentioned**: 
-**Locations**:
+**First mentioned**: 2025-07-20
+**Locations**: [[Malina‘s Basement]], [[Storage Room]], [[Malina‘s Bedroom]]
 
 ## Description:
 - A girl that looks like a combination of Malina, Neele, Veronique and I.
