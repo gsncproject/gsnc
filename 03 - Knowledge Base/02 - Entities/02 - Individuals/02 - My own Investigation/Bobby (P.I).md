@@ -10,7 +10,7 @@ aliases:
 **Aliases**: /
 
 **First mentioned**: 2025-07-20
-**Locations**: [[Malina‘s Basement]], [[Storage Room]], [[Malina‘s Bedroom]]
+**Locations**: [[Malina‘s Basement]], [[Storage Room]], [[Malina‘s Bedroom]], [[Haunted School]]
 
 ## Description:
 - A girl that looks like a combination of Malina, Neele, Veronique and I.
@@ -26,7 +26,7 @@ aliases:
 - [[Billy (P.I)]]
 - [[Betty]] 
 ## Patterns:
-- „I‘m behind you“ / „Behind you“
+- [[„I‘m behind you“]] / [[„Behind you“]]
 ## Uncertainty:
 - How do these four AI pictures appear in Malina‘s SnapChat gallery when she didn‘t use any of her devices during that time because she was asleep? How is that possible?
 ## Sources:
