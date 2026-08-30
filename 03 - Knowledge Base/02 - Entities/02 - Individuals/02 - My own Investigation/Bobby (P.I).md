@@ -13,19 +13,19 @@ aliases:
 **Locations**: [[Malina‘s Basement]], [[Storage Room]], [[Malina‘s Bedroom]], [[Haunted School]]
 
 ## Description:
-- A girl that looks like a combination of Malina, Neele, Veronique and I.
+- A girl that looks like a combination of [[Malina]], [[Neele]], [[Veronique]] and [[Joline]].
 ## Associated Events:
 - Malina suddenly found weird pictures taken on her phone at 3am with SnapChat AI that could have never been taken with that said filter.
 - [[Malina‘s Astral Travelling]] 
 ## Statements/Claims:
-- Lives in the storage room by Malina‘s bedroom.
+- Lives in the storage room by [[Malina‘s Bedroom]].
 ## Behavior/Characteristics:
 - Pretends to be good, but ends up being bad (?)
 - Manipulative 
 ## Connections:
 - [[Minions 2.0]]
-- [[Billy (P.I)]]
-- [[Betty]] 
+- [[Billy (P.I)|Billy]]
+- [[Betty (P.I)|Betty]] 
 ## Patterns:
 - [[„I‘m behind you“]] / [[„Behind you“]]
 ## Uncertainty:
