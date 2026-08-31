@@ -1,4 +1,4 @@
-- [ ] — I built a public archive for Sam and Colby, because apparently having hobbies is overrated.
+- [x] — I built a public archive for Sam and Colby, because apparently having hobbies is overrated.  [completion:: 2026-08-31]
 - [ ] — I made this for me and my friends and now other people want it too?
 - [ ] — U GUYS ARE NOW GIVING ME HOMEWORK AND I LOVE IT
 - [ ] — Drop ur weirdest SnC observations. I might add it to the archive.
