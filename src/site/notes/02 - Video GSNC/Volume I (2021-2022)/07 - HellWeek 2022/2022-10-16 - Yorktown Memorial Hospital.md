@@ -15,7 +15,7 @@
 >**Entities/Spirits**:
 >- [[Stacie (Yorktown)\|Stacie (Yorktown)]] 
 >- Nuns (who hate Tattoos)
->- [[Debbie (Nurse, Yorktown)\|Debbie (Nurse, Yorktown)]]
+>- [[Debbie (Nurse)\|Debbie (Nurse)]]
 >- (Mary)
 >- [[Dr. Novarnski\|Dr. Novarnski]] 
 >- [[Priest (Yorktown)\|Priest (Yorktown)]]
@@ -25,13 +25,12 @@
 >- They drew a gun-adjecent and knife-adjecent drawing with the Drawing Planchette 
 >———
 >**Patterns**:
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Sacer Rez“\|„Sacer Rez“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Oremace“\|„Oremace“]]
+>- [[„Sacer Rez“\|„Sacer Rez“]] / [[„Oremace“\|„Oremace“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Casket“\|„Casket“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s me“\|„It is me“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s me“\|„Me“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Five“\|„Five“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Master“\|„God“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Energy“\|„Energy“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Below“\|„Below“]]
 
 Hauntings: Stacie (died from „Unknown Causes“)
 

@@ -23,7 +23,7 @@
 >- Car door, which Sam left open, shuts close when the group wasn‘t near the car 
 >———
 >**Patterns**:
->- The Number [[04 - Research/01 - Patterns/02 - Numerology/Thirteen\|Thirteen]] 
+>- The Number Thirteen 
 
 - They tryna find the Jersey Devil 
 - There are lots of ghost stories and even more stories of this Devil creature

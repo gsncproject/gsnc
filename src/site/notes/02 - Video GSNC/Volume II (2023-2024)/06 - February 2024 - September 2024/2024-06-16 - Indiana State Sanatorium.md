@@ -13,7 +13,7 @@
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- [[The Hat Man\|The Hat Man]]
+>- [[The Hat Man (Indiana State San.)\|The Hat Man (Indiana State San.)]]
 >- [[Shadow Figures\|Shadow Figures]]
 >- [[Steven (Shadow Figure)\|Steven (Shadow Figure)]]
 >———
@@ -25,7 +25,7 @@
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Evil“\|„Evil“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Gateway“\|„Portal“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Gateway“\|„Gateway“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Five“\|„Five minutes remain“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Five“\|„In the fifth“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Holy Spirit“\|„Holy Spirit“]] 
+>- [[„Holy Spirit“\|„Holy Spirit“]]
 ## Facts:
 - It was a hospital treating tuberculosis, psych ward, and nursing home.
 - "Needless to say the Adams Hall is the most active building in the entire complex" - Colby Brock

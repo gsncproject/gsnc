@@ -19,11 +19,11 @@
 >- Sam takes a Thermo Picture of some „kind of“ blob in a window (the window of the principals office)
 >———
 >**Patterns**:
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Eight“\|„Eight“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Three“\|„Three“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Basement“\|„The basement“]]
+>- „Eight“ / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Three“\|„Three“]]
+>- „The basement“
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s me“\|„Me“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Remember“\|„Remember“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Eye“\|„Eyes“]]
+>- „Remember“
+>- „Eyes“
 
 ## The Challenges:
 - Colby has to be "hog tied" in the Boiler Room, unable to escape even if he wanted to. 

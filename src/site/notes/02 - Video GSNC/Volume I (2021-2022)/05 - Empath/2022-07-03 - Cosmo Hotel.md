@@ -26,7 +26,7 @@
 >- They‘ll do Scrying in a DIY-Psychomanteum
 >———
 >**Patterns**:
->- „Three or four“ - [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Three“\|„Three“]] & [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Four“\|„Four“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Seven“\|„Seven“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Eight-Hundred“\|„Eight-Hundred“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Thirty“\|„Thirty“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Five“\|„Five“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Six“\|„Six“]]
+>- „Three or four“ - [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Three“\|„Three“]] & [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Four“\|„Four“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Seven“\|„Seven“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Eight-Hundred“\|„Eight-Hundred“]] / [[„Thirty“\|„Thirty“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Five“\|„Five“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Six“\|„Six“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Move“\|„Move on“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s time“\|„Time“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s time“\|„Forever“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Unlock“\|„Unlock“]]

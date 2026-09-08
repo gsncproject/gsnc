@@ -16,22 +16,22 @@
 >- [[Shadow Figures\|Shadow Figures]] 
 >- Poltergeists
 >- Tricksters 
->- [[a Janitor (Farrar)\|a Janitor (Farrar)]] 
->- [[a Librarian (Farrar)\|a Librarian (Farrar)]]
->- [[a Principal (Farrar)\|a Principal (Farrar)]]
->- [[The Mimic\|The Mimic]]
+>- A Janitor 
+>- a Librarian
+>- a Principal
+>- Mimic
 >———
 >**Important Events**:
->- The last time they were there they got „I never left“, hinting bit too hard at [[03 - Knowledge Base/02 - Entities/02 - Individuals/03 - Shared/Sallie Lucy\|Sallie]].
+>- The last time they were there they got „I never left“, hinting bit too hard at Sallie.
 >- The spirits don‘t like Sam and Colby being the new owners
 >- Colby hears something mimicking Sam‘s voice 
 >———
 >**Patterns**:
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Monument“\|„Monument“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Monument“\|„Tomb“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Monument“\|„Tombstone“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Monument“\|„Marker“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Ninety“\|„Ninety years“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Twenty-Seven“\|„Twenty-Seven years“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Burn“\|„Burn“]]
+>- „Ninety years“ / „Twenty-Seven years“
+>- „Burn“
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s time“\|„Forever“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Below“\|„Below“]]
+>- „Below“
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Move“\|„Movement“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Falling down“\|„Fell“]]
 

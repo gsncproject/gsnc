@@ -18,7 +18,7 @@
 - [[02 - Video GSNC/Volume I (2021-2022)/02 - HellWeek 2021/2021-10-19 - Ukraine Catacombs\|2021-10-19 - Ukraine Catacombs]]
 - [[02 - Video GSNC/Volume I (2021-2022)/02 - HellWeek 2021/2021-10-24 - Pine Barrens\|2021-10-24 - Pine Barrens]]
 - [[02 - Video GSNC/Volume I (2021-2022)/02 - HellWeek 2021/2021-10-31 - Conjuring House (Alone)\|2021-10-31 - Conjuring House (Alone)]]
-- [[02 - Video GSNC/Volume I (2021-2022)/03 - November 2021 - December 2021/2021-12-05 - Villisca Axe Murder House\|2021-12-05 - Villisca Axe Murder House]]
+- [[02 - Video GSNC/Volume I (2021-2022)/03 - November 2021 - December 2021/Villisca Axe Murder House\|Villisca Axe Murder House]]
 - [[02 - Video GSNC/Volume I (2021-2022)/03 - November 2021 - December 2021/2021-12-19 - Sallie House\|2021-12-19 - Sallie House]]
 - [[02 - Video GSNC/Volume I (2021-2022)/04 - The Attachment/2022-04-16 - The Stanley Hotel (Return)\|2022-04-16 - The Stanley Hotel (Return)]]
 - [[02 - Video GSNC/Volume I (2021-2022)/05 - Empath/2022-06-12 - Goatman's Bridge\|2022-06-12 - Goatman's Bridge]]

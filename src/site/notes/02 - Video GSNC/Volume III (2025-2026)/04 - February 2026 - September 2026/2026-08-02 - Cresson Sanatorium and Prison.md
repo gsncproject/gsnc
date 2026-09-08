@@ -12,12 +12,12 @@
 
 >[!Quick Summary]
 >**Entites/Spirits**:
->- Joseph Kallinger
->- The creeper 
->- The mimic 
->- Willy (unknown)
->- Jonesie (A doctor?)
->- Tony (unknown)
+>- [[Joseph Kallinger\|Joseph Kallinger]]
+>- [[The Creeper (Cresson)\|The Creeper (Cresson)]]
+>- [[The Mimic\|The Mimic]] 
+>- [[Willy (unknown)\|Willy (unknown)]]
+>- [[Jonesie (A doctor?)\|Jonesie (A doctor?)]]
+>- [[Tony (unknown)\|Tony (unknown)]] 
 >———
 >**Important Events**:
 >- They experience a lot of disembodied voices along the investigations 

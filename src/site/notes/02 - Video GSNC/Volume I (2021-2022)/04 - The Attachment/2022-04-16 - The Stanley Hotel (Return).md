@@ -16,7 +16,7 @@
 >- [[F.O Stanley\|F.O Stanley]] 
 >- [[Flora Stanley\|Flora Stanley]] 
 >- [[Elizabeth Wilson\|Elizabeth Wilson]] 
->- [[03 - Knowledge Base/02 - Entities/02 - Individuals/03 - Shared/Sallie Lucy\|Lucy]] (Minion)
+>- [[Sallie Lucy\|Lucy]] (Minion)
 >- [[Hell Hounds\|Hell Hounds]] 
 >- [[Paul (the janitor)\|Paul (the janitor)]]
 >- [[Dennis (shadow figure)\|Dennis (shadow figure)]]

@@ -21,7 +21,7 @@
 >- [[Heinrich Mahler\|Heinrich Mahler]] 
 >- [[Marie Mahler\|Marie Mahler]] 
 >- [[Susie Mahler\|Susie Mahler]] 
->- ([[03 - Knowledge Base/02 - Entities/02 - Individuals/03 - Shared/Sallie Lucy\|Sallie]]) 
+>- ([[Sallie Lucy\|Sallie]]) 
 >———
 >**Important Events**:
 >- While at the Gazebo Sam sees a light turn on in the house 

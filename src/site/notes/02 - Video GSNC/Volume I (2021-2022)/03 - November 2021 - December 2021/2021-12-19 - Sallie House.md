@@ -13,7 +13,7 @@
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- [[03 - Knowledge Base/02 - Entities/02 - Individuals/03 - Shared/Sallie Lucy\|Sallie]] 
+>- [[Sallie Lucy\|Sallie]] 
 >- Male presence
 >- Adult Woman 
 >- Teenager

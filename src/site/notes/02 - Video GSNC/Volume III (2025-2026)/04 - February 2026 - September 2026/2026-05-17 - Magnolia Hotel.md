@@ -28,7 +28,7 @@
 >- [[Mark (unknown)\|Mark (unknown)]]
 >- [[Isabella (evil basement entity)\|Isabella (evil basement entity)]]
 >- [[Itzy\|Itzy]] (like the spider-song)
->- ([[03 - Knowledge Base/02 - Entities/02 - Individuals/03 - Shared/Sallie Lucy\|Sallie]])
+>- ([[Sallie Lucy\|Sallie]])
 >———
 >**Important Events**:
 >- Colby keeps adding new lore like nothing happened 
@@ -37,12 +37,12 @@
 >- The camera light turns off, and after Sam asks it to do it again it turns off again 
 >———
 >**Patterns**:
->- [[04 - Research/01 - Patterns/02 - Numerology/Twenty-Seven\|Twenty-Seven]] / [[04 - Research/01 - Patterns/02 - Numerology/Thirteen\|Thirteen]] / [[„Third“\|„Third“]] / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Two“\|„Two“]]
->- [[„Birds“\|„Birds“]]
+>- Twenty-Seven / Thirteen / „Third“ / [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Two“\|„Two“]]
+>- „Birds“
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Monument“\|„Monument“]]
->- [[„Devil“\|„Devil“]]
->- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Friend“\|„Befriend“]]
->- [[„Sallie“\|„Sallie“]]
+>- „Devil“
+>- „Befriend“
+>- „Sallie“
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Freedom“\|„Free“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s me“\|„Me“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Prisoner“\|„Trapped“]]

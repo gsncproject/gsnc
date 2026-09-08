@@ -13,9 +13,9 @@
 
 >[!Quick Summary]
 >**Entities/Spirits**:
->- [[Shadow Figures\|Shadow Figures]] 
->- [[The Creeper\|The Creeper]] 
->- [[The Hat Man\|The Hat Man]] 
+>- Shadow Figure 
+>- [[The Creeper (Trans-Allegheny)\|The Creeper (Trans-Allegheny)]] 
+>- [[The Hat Man (Trans-Allegheny)\|The Hat Man (Trans-Allegheny)]] 
 >- [[Doppelgänger\|Doppelgänger]] 
 >- [[Lily (disguise)\|Lily (disguise)]]
 >- [[Charlie (Bathroom guy)\|Charlie (Bathroom guy)]]
@@ -35,7 +35,6 @@
 >**Patterns**:
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s me“\|„It‘s me“]]
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Maybe“\|„Maybe“]]
->- [[04 - Research/01 - Patterns/02 - Numerology/Thirteen\|Thirteen]]
 
 - For 130 the Trans-Allegheny Lunatic Asylum treated the mentally ill 
 - They also performed lobotomies

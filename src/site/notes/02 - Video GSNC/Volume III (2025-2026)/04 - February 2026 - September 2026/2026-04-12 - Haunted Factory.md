@@ -14,7 +14,7 @@
 >[!Quick Summary]
 >**Entites/Spirits**:
 >- [[Irene McColl\|Irene McColl]] 
->- [[Arthur (Wangi Wangi)\|Arthur (Wangi Wangi)]] (man found in Boiler Room)
+>- [[Arthur (man found in Boiler Room)\|Arthur (man found in Boiler Room)]]
 >———
 >**Important Events**:
 >- Lots of disembodied voices 
@@ -23,7 +23,8 @@
 >**Patterns**:
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„It‘s me“\|„Me“]]
 >- Drowing sounds 
->- [[Screams\|Screams]] 
+>- Screams 
+>- „Upstairs“
 >- [[04 - Research/01 - Patterns/01 - Spoken Patterns/„Evil“\|„Evil“]]
 
 They‘re in a goddamn thunderstorm
